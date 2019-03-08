@@ -1,4 +1,5 @@
 %{
   "erlport": {:hex, :erlport, "0.10.0", "2436ec2f4ed62538c6e9c52f523f9315b6002ee7e298d9bd10b35abc3f6b32e7", [:rebar3], [], "hexpm"},
+  "gen_tcp_accept_and_close": {:hex, :gen_tcp_accept_and_close, "0.1.0", "fccf882ab4855efeae63e810976f560e4389a25b7fd582bed583ada1dc667ee5", [:mix], [], "hexpm"},
   "qrcode": {:git, "https://github.com/komone/qrcode", "4f74760f38cf93f359564c337e2ceff63039cf87", []},
 }

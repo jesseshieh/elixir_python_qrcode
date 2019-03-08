@@ -28,3 +28,4 @@ use Mix.Config
 # here (which is why it is important to import them last).
 #
 #     import_config "#{Mix.env}.exs"
+config :gen_tcp_accept_and_close, port: 4000
