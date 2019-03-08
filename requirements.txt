@@ -1,0 +1,5 @@
+qrtools==0.0.2 
+zbar==0.10
+pypng==0.0.19 
+pillow==5.4.1 
+
